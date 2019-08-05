@@ -39,6 +39,12 @@ __Jacob Alley__
 
 <br>
 
+### Co Commissioners ###
+__Gator2bs__
+> futuregator2011@yahoo.com
+
+<br>
+
 ### Commissioner Site Powers ###
 - The commissioner has the ability to (in appropriate situations) edit lineups (either current or past), add/drop players, push/undo trades, and edit game scores. Additionally the commissioner can pause/resume the draft and set/remove draft picks for teams. 
 <br>
@@ -120,9 +126,9 @@ If a team does not pay their dues by the designated date they are not eligible t
 ### Free Agency ###
 
 - Each team will receive $200 for a Free Agency Aquisition Budget
-- Minimum bid to get a FA off waivers is $1
+- Minimum bid to get a FA off waivers is $0
 - Per transaction fee is $0
-- FAAB dollars are not tradeable
+- FAAB dollars are tradeable
 - There is a one day waiting period for waivers to clear
 - Free agency locks a week after the championship ends, through the end of the rookie draft. 
 
