@@ -124,6 +124,12 @@ If a team does not pay their dues by the designated date they are not eligible t
    BE | 15 | No Limi
    IR | 2 | No Limit
 
+ ### Taxi Squad ###
+   - 3 taxi squad spots
+   - rookies and sophomores only
+   - After the season has started, a player removed from the taxi squad cannot be put back on.
+   - no poaching
+
 ## __Section V - Free Agency & Trading__ ##
 
 ### Free Agency ###
